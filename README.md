@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ToteM97
-- 👀 I’m interested in Coding and developing 
-- 🌱 I’m currently learning Javascript from scratch
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in coding and developing apps, web development, webapps, solidity, crypto, NFTs, etc.
+- 🌱 I’m currently learning Javascript from scratch.
+- 💞️ I’m looking to collaborate on ... I'll stick to learning for now :)
 - 📫 How to reach me : rishinegi97@gmail.com
 
 <!---
