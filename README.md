@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ToteM97
-- 👀 Interested in: Coding | App-Development | Web-Development | Webapps | Solidity | Crypto | NFTs, etc.
-- 🌱 I’m currently learning HTML CSS and Javascript from scratch.
+- 👋 Hi, I’m Rishikesh Negi
+- 👀 Interested in: Full Stack Development | Web-Development | DevOps | Open Source | Solidity | web3 etc.
+- 🌱 I’m currently learning HTML CSS(and Tailwind) and Javascript.
 - 💞️ I’m looking to collaborate on ... I'll stick to learning for now :)
 - 📫 How to reach me : rishinegi97@gmail.com | https://twitter.com/insentient_dev | https://www.linkedin.com/in/rishikesh-negi-6b500513b/
 
